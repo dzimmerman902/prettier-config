@@ -1,0 +1,19 @@
+{
+  "name": "@dzimmerman902/prettier-config",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzimmerman902/prettier-config.git"
+  },
+  "author": "Devin Zimmerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzimmerman902/prettier-config/issues"
+  },
+  "homepage": "https://github.com/dzimmerman902/prettier-config#readme"
+}
